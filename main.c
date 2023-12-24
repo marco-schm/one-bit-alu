@@ -140,7 +140,7 @@ int main(int argc, char *argv[]) {
         default:
             printf("Invalid ALU operation: %s\n", argv[3]);
             print_alu_operations();
-            return 1; // Return value 1 indicate
+            return 1;
     }
 
     bool a1 = inverter(a, f3);
