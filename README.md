@@ -9,7 +9,7 @@ This project is a simple ALU (Arithmetic Logic Unit) simulator implemented in C.
 To run the simulator, use the following command:
 
 ```
-./alu_simulator <value_for_a> <value_for_b> <alu_operation>
+./one_bit_alu <value_for_a> <value_for_b> <alu_operation>
 ```
 
 - <value_for_a> and <value_for_b> should be either '0' or '1'.
