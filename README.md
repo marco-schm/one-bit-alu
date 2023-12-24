@@ -36,7 +36,7 @@ To build the project, follow these steps:
 
 1) Clone the repository to your local machine:
 ```
-git clone https://github.com/your-username/one-bit-alu.git
+git clone https://github.com/marco-schm/one-bit-alu.git
 ```
 
 2) Navigate to the project directory:
